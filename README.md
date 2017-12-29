@@ -13,7 +13,7 @@ App Link: https://expensifyaks.herokuapp.com
 
 ## Setting up the App
 
-* ### Firebase app setup
+* ### Firebase db setup
 1. For local setup, you have to first and setup create your firebase app and setup database, then in 
 rules tab of database, paste following code : 
 ```
@@ -53,6 +53,9 @@ rules tab of database, paste following code :
   }
 }
 ```
+* ### Firebase auth setup
+1. In Authentication tab of firebase app, enable google sign-in method.
+
 * ### Firebase credential setup
 1. Clone the repo.
 
