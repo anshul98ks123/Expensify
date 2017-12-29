@@ -1,5 +1,5 @@
 # Expensify
-A basic expense manager crud app - SPA built with react and redux.
+A basic expense manager crud app - built with react and redux.
 
 App Link: https://expensifyaks.herokuapp.com
 
